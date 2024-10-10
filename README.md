@@ -1,7 +1,3 @@
-Here’s a fun and engaging `README.md` file for a calculator built with React, enhanced with emojis for a playful touch!
-
----
-
 # 🧮 React Calculator
 
 Welcome to the **React Calculator**! This project is a simple, interactive calculator built using React. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. 💻
